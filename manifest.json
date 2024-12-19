@@ -1,0 +1,19 @@
+{
+    "name": "Notes",
+    "short_name": "Notes",
+    "start_url": "../index.html",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "../icons/icon-192.webp",
+            "sizes": "192x192",
+            "type": "image/webp"
+        },
+        {
+            "src": "../icons/icon-512.webp",
+            "sizes": "512x512",
+            "type": "image/webp"
+        }
+    ],
+    "orientation": "portrait-primary"
+}
